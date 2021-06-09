@@ -3,9 +3,11 @@ title_left: "Tuna"
 title_right: "Space" # default: ""
 description: "Just a minimal blog where I can take notes about my daily life."
 keywords: "tuna, tunadate, blog, development, minimalist"
-url: https://tuna-date.github.io/thinkspace # site url
-baseurl: "https://github.com/tuna-date/tuna-date.github.io" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+domain: tuna-date.github.io/
+url: https://tuna-date.github.io/ # site url
+baseurl: "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover: "" # image uri like logo/cover image for site seo
+repository: tuna-date/tuna-date.github.io
 
 google_analytics: UA-XXXXX-XX
 twitter_username: ""
